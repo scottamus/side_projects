@@ -1,1 +1,1 @@
-email = {'username': 'scott.loveless@gmail.com', 'password': 'fjgxbbobehlagsxx'}
+email = {'username': 'scott.loveless@gmail.com', 'password': ''}
